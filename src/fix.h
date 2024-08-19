@@ -1,0 +1,1 @@
+#define struct___device_builtin__
